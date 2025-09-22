@@ -180,4 +180,5 @@ A higher-degree polynomial (e.g., degree 15, 31, or even 63) provides a much clo
 
 #### Notes
 - Key Management: The multiparty key management would ideally work as if there are various nodes being the secure key-holding parties that would only interact with the final aggregator node to perform the multiparty decryption of the single, final global maximum ciphertext.
+- Initial Prototype without batching and bootstrapping ([link](https://github.com/sb-saksham/mercle-sde-assessment/commit/206621d99c9499d3744a869b7bbd787634651557/main.py))
 
